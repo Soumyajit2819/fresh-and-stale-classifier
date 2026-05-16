@@ -59,7 +59,7 @@ flowchart TD
 
 
 
-`Web App URL: https://fresh-and-stale-classifier-iu5pklk6uj2uwab26tlofr.streamlit.app/`
+`Web App URL`: https://fresh-and-stale-classifier-iu5pklk6uj2uwab26tlofr.streamlit.app/
 
 ## Repository Structure
 
