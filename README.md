@@ -57,9 +57,9 @@ flowchart TD
 
 ## Web App Link
 
-Add your deployed app link here after deployment:
 
-`Web App URL: paste-your-link-here`
+
+`Web App URL: https://fresh-and-stale-classifier-iu5pklk6uj2uwab26tlofr.streamlit.app/`
 
 ## Repository Structure
 
