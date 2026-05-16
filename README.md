@@ -34,7 +34,7 @@ The current model supports these 12 classes:
 - `fresh_bitter_gourd`
 - `stale_bitter_gourd`
 
-## Project Sequence Diagram
+## Project Workflow Diagram
 
 ```mermaid
 flowchart TD
